@@ -3,6 +3,11 @@
 git clone https://github.com/idemonbd/laravel-datatables-example.git
 ```
 
+
+```
+cd laravel-datatables-example
+```
+
 ```
 composer install
 ```
